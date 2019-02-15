@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week 1 Day 4</string>
+    <string name="zip_hint">77055</string>
+    <string name="state_hint">TX</string>
+    <string name="city_hint">Houston</string>
+    <string name="address_hint">9483 Wood St</string>
+    <string name="first_name_hint">Marco</string>
+    <string name="last_name_hint">Carrizales</string>
+    <string name="next">Next</string>
+</resources>
